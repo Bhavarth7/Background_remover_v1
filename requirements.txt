@@ -1,0 +1,13 @@
+numpy>=1.21.0
+torch>=1.9.0
+einops>=0.6.0
+Pillow>=9.0.0
+timm>=1.0.10
+torchvision>=0.10.0
+huggingface_hub>=0.22
+setuptools
+wheel
+opencv-python
+gradio
+uvicorn
+fastapi
